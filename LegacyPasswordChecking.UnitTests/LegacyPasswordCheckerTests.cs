@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace LegacyCalcUnitTests
 {
-    public class LegacyCalcTests
+    public class LegacyPasswordCheckerTests
     {
         [Test]
         public void ChangeMeAndRenameMe()

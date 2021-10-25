@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLegacyDrills", "CalculatorLegacyDrills\CalculatorLegacyDrills.csproj", "{37EFB9B0-44DD-4AE6-865B-CF110B52DCDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyPasswordChecking", "LegacyPasswordChecking\LegacyPasswordChecking.csproj", "{37EFB9B0-44DD-4AE6-865B-CF110B52DCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLegacyDrills.UnitTests", "CalculatorLegacyDrills.UnitTests\CalculatorLegacyDrills.UnitTests.csproj", "{B617AE2E-5325-43B4-ADF1-A549E8C3475C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyPasswordChecking.UnitTests", "LegacyPasswordChecking.UnitTests\LegacyPasswordChecking.UnitTests.csproj", "{B617AE2E-5325-43B4-ADF1-A549E8C3475C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyLoginManager", "LegacyLoginManager\LegacyLoginManager.csproj", "{9D82756A-B903-4888-B4A2-2E0FBE628840}"
 EndProject
