@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace LegacyLoginManager.UnitTests
 {
-    public class Class1
+    public class LoginManagerTests
     {
         [Test]
         public void ChangeMeAndRenameMe()
