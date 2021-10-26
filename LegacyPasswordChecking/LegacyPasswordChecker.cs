@@ -11,7 +11,7 @@ namespace CalculatorLegacyDrills
             if (password.Length > 0 && password.Length < 17)
             {
                 //one lower case letter, one upper case letter
-                if (Regex.IsMatch(password,"[az]") && Regex.IsMatch(password,"[A-Z]"))
+                if (Regex.IsMatch(password,"[az]") || Regex.IsMatch(password,"[A-Z]"))
                 {
                     //one number, one symbol
                     if (Regex.IsMatch(password,"0-9") 
